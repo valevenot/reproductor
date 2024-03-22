@@ -21,7 +21,7 @@ body{
     overflow: hidden;
 }
 .bttn{
-    padding: 15px 120px;
+    padding: 5px 90px;
     border-radius: 40px;
     background-color: rgb(83, 83, 83);
     transition: all .3s ease-in;
@@ -29,7 +29,7 @@ body{
 
 }
 .bttn:hover{
-    background-color: rgb(3, 3, 70);
+    background-color: rgb(54, 54, 55);
     color: #eaebe9 ;
 }
 
